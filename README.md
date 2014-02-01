@@ -7,7 +7,7 @@ Space-Invaders-Clone is what it is; a clone of Space Invaders made for a softwar
 See issues page.
 
 #Credits
-* Programming: Shah Syed, Daniel Maugeri, David Lieu
+* Programming: Daniel Maugeri, David Lieu, Shah Syed
 * Music: A.M.U - Diamond
 * GFX: Shah Syed
 * SFX: Shah Syed
